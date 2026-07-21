@@ -1,0 +1,6 @@
+{
+  "name": "Stock Market Analysis Python Portfolio",
+  "description": "A professional quantitative finance analyzer and GitHub portfolio showroom featuring live market data, interactive portfolio simulation, an AI copilot, and a downloadable Python codebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
