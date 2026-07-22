@@ -3,6 +3,7 @@
 A professional-grade portfolio application showcasing a modular **Quantitative Finance Analyzer** built with **Python 3** and served via an interactive full-stack **React + Express** dashboard.
 
 This workspace splits into two core divisions:
+
 1. **The Core Python Repository (`/Stock-Market-Analysis-Python`)**:
    - The standalone mathematical library using `pandas`, `numpy`, `yfinance`, and `seaborn`.
    - Includes data loading pipelines, quantitative metrics calculators, plotting scripts, and a Streamlit dashboard.
