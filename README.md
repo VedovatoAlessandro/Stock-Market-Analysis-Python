@@ -6,7 +6,6 @@ A professional-grade portfolio application showcasing a modular **Quantitative F
 This workspace splits into two core divisions:
 
 
-
 1. **The Core Python Repository (`/Stock-Market-Analysis-Python`)**:
    - The standalone mathematical library using `pandas`, `numpy`, `yfinance`, and `seaborn`.
    - Includes data loading pipelines, quantitative metrics calculators, plotting scripts, and a Streamlit dashboard.
@@ -14,6 +13,7 @@ This workspace splits into two core divisions:
 2. **The Interactive Web Showcase Dashboard (Root / `/src` / `/server.ts`)**:
    - Built on React 18, Tailwind CSS, Recharts, and Express.
    - Allows live parameter optimization, interactive portfolio simulations, cross-asset correlation analysis, and dynamic AI investment reviews via Gemini.
+
 
 ---
 
