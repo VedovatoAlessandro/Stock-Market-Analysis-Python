@@ -2,6 +2,7 @@
 
 A professional-grade portfolio application showcasing a modular **Quantitative Finance Analyzer** built with **Python 3** and served via an interactive full-stack **React + Express** dashboard.
 
+
 This workspace splits into two core divisions:
 
 
