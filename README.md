@@ -2,7 +2,6 @@
 
 A professional-grade portfolio application showcasing a modular **Quantitative Finance Analyzer** built with **Python 3** and served via an interactive full-stack **React + Express** dashboard.
 
-
 This workspace splits into two core divisions:
 
 
@@ -14,10 +13,11 @@ This workspace splits into two core divisions:
    - Built on React 18, Tailwind CSS, Recharts, and Express.
    - Allows live parameter optimization, interactive portfolio simulations, cross-asset correlation analysis, and dynamic AI investment reviews via Gemini.
 
-
 ---
 
+
 ## 📂 Workspace Layout
+
 
 ```text
 .
